@@ -1,6 +1,7 @@
 package com.jk.model;
 
 public class Page {
+    
     private Integer offset;
     private Integer limit;
 
